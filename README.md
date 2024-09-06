@@ -66,13 +66,17 @@ The website is already deployed on Netlify, but if you'd like to deploy it elsew
 
 ## Project Structure
 
+## Project Structure
+
+```plaintext
 ├── css/
-│ ├── styles.css # Main stylesheet
+│   └── styles.css        # Main stylesheet for the website
 ├── js/
-│ ├── app.js # Main JavaScript file
-├── img/ # Image assets
-├── index.html # Main HTML file
-└── README.md # Project documentation
+│   └── app.js            # Main JavaScript file for website interactivity
+├── img/                  # Folder containing image assets
+├── index.html            # Main HTML file of the website
+└── README.md             # Project documentation (this file)
+```
 
 ## Contributing
 
